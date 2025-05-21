@@ -1,4 +1,4 @@
-# SeoToolKit
+# SeoToolKit - FIX YOUR SEO IN SECONDS!! WITH SEO FIXER TOOL KIT
 
 A comprehensive, all-in-one tool for optimizing websites for search engines and improving performance.
 
